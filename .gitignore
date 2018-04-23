@@ -1,0 +1,11 @@
+.idea/
+.publish/
+__pycache__/
+dist/
+node_modules/
+
+*.map
+*.py[cod]
+
+staticfiles/
+media/
